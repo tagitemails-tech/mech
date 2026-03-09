@@ -1,0 +1,7 @@
+{
+  "name": "Mech-Sphere Industries",
+  "description": "Manufacturers of Hydraulic Fittings, Hose Pipe Fittings, and CNC Precision Turned Components. Price meets Quality: Feel the Difference.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
